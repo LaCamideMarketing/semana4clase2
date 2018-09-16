@@ -1,1 +1,1 @@
-https://github.com/LaCamideMarketing/semana4clase2
+https://lacamidemarketing.github.io/semana4clase2/
